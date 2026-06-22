@@ -4,7 +4,7 @@
     "name": "TOFFEE Sports VIP",
     "link": "https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=wBiXm_6yV4n0UxrgU2CbAA&expires=1782128416",
     "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
-    "http_referrer": "https://executeandship.com",
-    "http_origin": "https://executeandship.com"
+    "referrer": "https://executeandship.com",
+    "origin": "https://executeandship.com"
   }
 ]
